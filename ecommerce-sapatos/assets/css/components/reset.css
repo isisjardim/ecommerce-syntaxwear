@@ -168,7 +168,11 @@ button {
 /* Remove estilos de link padrão */
 a {
   text-decoration: none;
-  color: inherit;
+ 
+}
+
+ul,ol{
+   list-style: none;
 }
 
 /* Suaviza o comportamento de scroll */
