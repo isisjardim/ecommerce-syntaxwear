@@ -53,4 +53,4 @@ Este é um projeto de portfólio, mas sinta-se à vontade para explorá-lo, faze
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/isisjardim)
+Feito com ❤️ por Isis Jardim (https://github.com/isisjardim)
