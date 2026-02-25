@@ -22,17 +22,16 @@ ecommerce-sapatos/
 ├── index.html                # A página principal da loja
 ├── README.MD                 # Este arquivo
 │
-└── assets/
-    ├── css/
-    │   └── components/       # Contém os arquivos CSS modulares
-    │       ├── base.css
-    │       ├── footer.css
-    │       ├── header.css
-    │       ├── hero.css
-    │       ├── product-category.css
-    │       ├── product-grid.css
-    │       ├── reset.css
-    │       └── variables.css
+└── components/
+    ├── css/                  # Contém os arquivos CSS modulares
+    │   ├── base.css
+    │   ├── footer.css
+    │   ├── header.css
+    │   ├── hero.css
+    │   ├── product-category.css
+    │   ├── product-grid.css
+    │   ├── reset.css
+    │   └── variables.css
     │
     └── images/
         ├── banners/          # Imagens para os banners principais
@@ -45,7 +44,6 @@ ecommerce-sapatos/
 - **HTML5:** Para a estrutura semântica do site.
 - **CSS3:** Para estilização e layout, utilizando o modelo de caixas flexíveis (Flexbox) e grade (Grid).
 - **Design Responsivo:** Media queries para garantir a adaptabilidade em diferentes dispositivos.
-
 
 ## 🤝 Contribuições
 
