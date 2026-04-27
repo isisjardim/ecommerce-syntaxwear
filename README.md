@@ -1,4 +1,18 @@
-# SyntaxWear - Tênis e Sneakers Online
+# SyntaxWear — Responsive E-commerce Landing Page
+
+Responsive e-commerce website built with HTML5 and CSS3, focused on semantic structure, responsive layout, product grid, and clean visual design.
+
+## Live Demo
+[View project]https://isisjardim.github.io/ecommerce-syntaxwear/
+
+## Technologies
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Semantic HTML
+
 
 Bem-vindo à SyntaxWear, o seu destino online para os tênis e sneakers mais estilosos e confortáveis. Este projeto é uma loja virtual desenvolvida para proporcionar uma experiência de compra intuitiva e agradável, com um design moderno e responsivo.
 
@@ -51,4 +65,4 @@ Este é um projeto de portfólio, mas sinta-se à vontade para explorá-lo, faze
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/isisjardim)
+Feito com ❤️ por [Isis Jardim](https://github.com/isisjardim)
